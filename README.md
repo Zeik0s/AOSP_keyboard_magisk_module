@@ -4,3 +4,8 @@
 v0.3
 Changelog:
 - Update to Android Keyboard (AOSP) Version: 9 (28) 
+
+
+## Download:
+
+https://github.com/Zeik0s/AOSP_keyboard_magisk_module/releases/latest 
