@@ -1,5 +1,10 @@
 #!/sbin/sh
 
+# 
+# some parts are from John Wu's installer script, so for doing correct licensing:
+# this stands under GPLv3 License
+# https://github.com/topjohnwu/Magisk/blob/master/scripts/module_installer.sh
+
 #################
 # Initialization
 #################
